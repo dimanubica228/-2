@@ -1,0 +1,5 @@
+val str = "Hello, world!"
+var length = 0
+for (char in str) {
+    length++
+}
