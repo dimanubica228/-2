@@ -1,0 +1,8 @@
+fun main() {
+  val num1 = 10
+  val num2 = 20.5
+  val num3 = 30L
+  val num4 = 40f
+
+  println("$num1 $num2 $num3 $num4")
+}
